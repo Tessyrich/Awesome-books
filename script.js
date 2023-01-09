@@ -21,7 +21,13 @@ class StorageInLocal {
 	  return this.awesomeBooks;
 	}
 
-	addBook() {
-
+	addBook(book) {
+      const newBook = {
+        id : this.id, title: book.title, author: book.author 
+      }
+      const awesomeBooks = this.getListBooks()
+      awesomeBooks.push(newBook)
+      localStorage.setItem('awesomeBooks', JSON.stringify(awesomeBooks))
+      this.numberOfBooks += 1
 	}
 }
