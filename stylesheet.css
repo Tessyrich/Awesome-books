@@ -14,7 +14,7 @@ fieldset {
   margin-bottom: 55px;
 }
 
-.delete {
+.btn-remove-item {
   font-family: 'Lato', sans-serif;
   border: none;
   cursor: pointer;
