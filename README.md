@@ -77,7 +77,6 @@
 - **[Write a function that adds a new book to the list when the form is submitted. This function should get the values of the form fields, create a new book object, and push it onto the array.]**
 - **[Write a function that displays the list of books on the webpage. This function should loop through the array of books and create HTML elements for each book, adding them to the container element in the DOM.]**
 - **[Add events to the form and the list of books to allow users to add and remove books. For example, you could add a click event to the "Remove" button next to each book that removes the book from the array and updates the display.]**
-- **[The mobile menu has a close (X) button that closes the menu.]**
 - **[Open a pull request.]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
