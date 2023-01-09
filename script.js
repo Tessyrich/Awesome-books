@@ -1,4 +1,4 @@
-/* eslint no-use-before-define: 2 */
+/* eslint max-classes-per-file: ["error", 3] */
 class Book {
   constructor(title, author, id) {
     this.title = title;
