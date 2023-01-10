@@ -85,8 +85,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
-Not Available
+- [Live Demo Link](https://tessyrich.github.io/Awesome-books/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,9 +127,10 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Tessy Rich**
+👤 **Ogbonna Oluchi Theresa**
 
 - GitHub: [@githubhandle](https://github.com/Tessyrich)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/oluchi-theresa-55b512220)
 
 👤 **Jean Walner ALEXIS**
 
