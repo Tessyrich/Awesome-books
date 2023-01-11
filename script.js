@@ -78,6 +78,9 @@ class UI {
     }
 
     document.addEventListener('DOMContentLoaded', UI.displayAllBooks);
+    document.querySelector('.books-container').classList.remove('hide');
+    document.querySelector('.form').classList.add('hide');
+    document.querySelector('.section-contact-info').classList.add('hide');
   }
 }
 
